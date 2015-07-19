@@ -12,7 +12,7 @@ for (var i = 0; i < 1000; i++){
     }
 }
 
-//display the sum in HTML by id solution1
+//display the variable begins in HTML by id solution1
 document.getElementById('solution1').innerHTML= begins;
 
 
@@ -39,5 +39,5 @@ while( firstNum < 4000000) {
     secondNum = thirdNum;
 }
 
-//display the sum in HTML by id solution2
+//display the variable sum in HTML by id solution2
 document.getElementById('solution2').innerHTML= sum;
