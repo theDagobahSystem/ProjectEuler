@@ -1,0 +1,33 @@
+body {
+  	width:960px;
+  	margin: 0 auto;
+  	color:#444;
+	font-family:'Lato', sans-serif; 
+}
+
+p {
+	font-weight: 400;
+	margin: 8px 0;
+}
+
+a {
+	text-decoration: none;
+	color: #666;
+	margin-bottom: 100px;
+}
+	a:hover {
+		color: #80B3FF;
+	}
+
+h1 {
+	color: #2C3B63;
+}
+
+h2 {
+	margin: 50px 0 0;
+}
+
+span {
+	font-size: 16px;
+	font-weight: 700;
+}
